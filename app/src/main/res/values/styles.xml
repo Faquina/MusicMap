@@ -8,4 +8,8 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="AppInput" parent="TextAppearance.AppCompat">
+
+    </style>
+
 </resources>
